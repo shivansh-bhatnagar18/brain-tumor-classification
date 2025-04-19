@@ -4,3 +4,4 @@ venv/
 logs/
 # Ignore the best model file
 best_model.keras
+zips/
