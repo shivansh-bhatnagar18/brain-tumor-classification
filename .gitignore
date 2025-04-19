@@ -1,3 +1,6 @@
-venv
-logs
+# Ignore virtual environment
+venv/
+# Ignore log files
+logs/
+# Ignore the best model file
 best_model.keras
